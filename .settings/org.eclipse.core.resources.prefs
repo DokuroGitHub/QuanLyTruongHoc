@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/org/javabase/apps/controller/LoginController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/tags/layout/sideMenu.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/student/addStudent.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/permission.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/profile.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/role.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/user.jsp=UTF-8
